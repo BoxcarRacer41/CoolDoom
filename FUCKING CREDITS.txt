@@ -1,12 +1,5 @@
 im so, so, so, so, so, so, SO sorry
 
-PARKOUR CREDITS:
-- Xaser: Did pretty much all the code and things.
-- NeuralStunner: Accidentally fixing the double-jumping (silly RadMarker spawn issues... +MISSILE was genius though ;)
-- Cutmanmike: Doom Mutator Contest 2, for which this was originally made for.
-
-
-
 Sergeant Mark IV for Brutal Doom v20.
 The guy that made the Skrillex MIDI for the Skrillex MIDI
 Xaser for the original pipe bomb.
@@ -18,5 +11,4 @@ Keksdose and Eriance for the flamethrower.
 Gothic for the Black Hole Generator
 Captain Toenail for the Duke Shotgun.
 lolo_is_cool and Xaser for the Egosmasher
-AEOD for the titlescreen
-CiniMod for The Rumble
+X-CrazyKool-X for the Spell Binder.
